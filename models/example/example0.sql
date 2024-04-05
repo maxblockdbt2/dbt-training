@@ -1,0 +1,1 @@
+select 'Max' as name, 'CSSDGS' as company
